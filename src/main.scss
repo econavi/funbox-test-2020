@@ -1,6 +1,18 @@
+@import 'helpers/mixins.scss';
+@import 'helpers/fonts.scss';
+
 *,
 *:before,
 *:after {
   box-sizing: border-box;
   outline: none;
+}
+
+body {
+  @include fontFamily('TrebuchetMS');
+  font-weight: 400;
+}
+
+h1 {
+  @include fontFamily('Exo2');
 }
