@@ -18,14 +18,9 @@
 }
 
 // Подключение шрифтов
-@include fontFace('TrebuchetMS', 'TrebuchetMSRegular');
-@include fontFace('TrebuchetMS', 'TrebuchetMSBold');
-@include fontFace('Exo2', 'exo2-thin');
-// @include fontFace('montserrat', 'montserrat-italic', 400, italic);
-// @include fontFace('montserrat', 'montserrat-semibold', 600);
-// @include fontFace('montserrat', 'montserrat-semibolditalic', 600, italic);
-// @include fontFace('montserrat', 'montserrat-bold', 700);
-// @include fontFace('montserrat', 'montserrat-bolditalic', 700, italic);
+@include fontFace('Trebuchet', 'TrebuchetMSRegular', 400);
+@include fontFace('Trebuchet', 'TrebuchetMSBold', 700);
+@include fontFace('Exo2', 'exo2-thin', 100);
 
 // Начертание шрифтов:
 // 
