@@ -98,8 +98,7 @@ $color-card-disabled: #b3b3b3;
     background-color: $color-card-default;
     border-radius: 50%;
     
-    &::after {
-      content: 'КГ';
+    span {
       font-size: 16px;
       line-height: 1.05;
     }

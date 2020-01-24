@@ -86,7 +86,7 @@ const ProductCard = ({ cardData, cardId, onClick, selected }) => {
             {renderPropertyItems()}
           </ul>
           <div className="product-card__total">
-            {total}
+            {total}<span>КГ</span>
           </div>
           {renderImage()}
         </div>
