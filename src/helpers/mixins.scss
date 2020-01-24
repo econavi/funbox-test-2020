@@ -1,3 +1,19 @@
-h1 {
-  font-size: 50px;
+/* Debuger */
+@mixin x($color: #f00) {
+  outline: 2px solid lighten($color, 20%);
+  outline-offset: -2px;
+}
+
+@mixin listReset() {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+@mixin buttonReset() {
+  padding: 0;
+  background: none;
+  border: none;
+  color: inherit;
+  text-decoration: none;
 }
