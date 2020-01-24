@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/funbox-test-2020/static/css/main.26bf8b4e.chunk.css",
-    "main.js": "/funbox-test-2020/static/js/main.61dfcd96.chunk.js",
-    "main.js.map": "/funbox-test-2020/static/js/main.61dfcd96.chunk.js.map",
+    "main.js": "/funbox-test-2020/static/js/main.29ccd8d6.chunk.js",
+    "main.js.map": "/funbox-test-2020/static/js/main.29ccd8d6.chunk.js.map",
     "runtime-main.js": "/funbox-test-2020/static/js/runtime-main.c4fb3814.js",
     "runtime-main.js.map": "/funbox-test-2020/static/js/runtime-main.c4fb3814.js.map",
     "static/js/2.d536e37e.chunk.js": "/funbox-test-2020/static/js/2.d536e37e.chunk.js",
     "static/js/2.d536e37e.chunk.js.map": "/funbox-test-2020/static/js/2.d536e37e.chunk.js.map",
     "index.html": "/funbox-test-2020/index.html",
-    "precache-manifest.baeb8ba9561884da61d4add3666049dc.js": "/funbox-test-2020/precache-manifest.baeb8ba9561884da61d4add3666049dc.js",
+    "precache-manifest.3e548c3540d121fc0eb0310cd4f22953.js": "/funbox-test-2020/precache-manifest.3e548c3540d121fc0eb0310cd4f22953.js",
     "service-worker.js": "/funbox-test-2020/service-worker.js",
     "static/css/main.26bf8b4e.chunk.css.map": "/funbox-test-2020/static/css/main.26bf8b4e.chunk.css.map",
     "static/js/2.d536e37e.chunk.js.LICENSE": "/funbox-test-2020/static/js/2.d536e37e.chunk.js.LICENSE",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.c4fb3814.js",
     "static/js/2.d536e37e.chunk.js",
     "static/css/main.26bf8b4e.chunk.css",
-    "static/js/main.61dfcd96.chunk.js"
+    "static/js/main.29ccd8d6.chunk.js"
   ]
 }
