@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.9b911b23.chunk.css",
-    "main.js": "/static/js/main.61dfcd96.chunk.js",
-    "main.js.map": "/static/js/main.61dfcd96.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.bafdf1ef.js",
-    "runtime-main.js.map": "/static/js/runtime-main.bafdf1ef.js.map",
-    "static/js/2.d536e37e.chunk.js": "/static/js/2.d536e37e.chunk.js",
-    "static/js/2.d536e37e.chunk.js.map": "/static/js/2.d536e37e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d5675075705187f6db782f6481ddf01e.js": "/precache-manifest.d5675075705187f6db782f6481ddf01e.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.9b911b23.chunk.css.map": "/static/css/main.9b911b23.chunk.css.map",
-    "static/js/2.d536e37e.chunk.js.LICENSE": "/static/js/2.d536e37e.chunk.js.LICENSE",
-    "static/media/main.scss": "/static/media/exo2-thin.954b8b56.woff"
+    "main.css": "/funbox-test-2020/static/css/main.26bf8b4e.chunk.css",
+    "main.js": "/funbox-test-2020/static/js/main.61dfcd96.chunk.js",
+    "main.js.map": "/funbox-test-2020/static/js/main.61dfcd96.chunk.js.map",
+    "runtime-main.js": "/funbox-test-2020/static/js/runtime-main.c4fb3814.js",
+    "runtime-main.js.map": "/funbox-test-2020/static/js/runtime-main.c4fb3814.js.map",
+    "static/js/2.d536e37e.chunk.js": "/funbox-test-2020/static/js/2.d536e37e.chunk.js",
+    "static/js/2.d536e37e.chunk.js.map": "/funbox-test-2020/static/js/2.d536e37e.chunk.js.map",
+    "index.html": "/funbox-test-2020/index.html",
+    "precache-manifest.baeb8ba9561884da61d4add3666049dc.js": "/funbox-test-2020/precache-manifest.baeb8ba9561884da61d4add3666049dc.js",
+    "service-worker.js": "/funbox-test-2020/service-worker.js",
+    "static/css/main.26bf8b4e.chunk.css.map": "/funbox-test-2020/static/css/main.26bf8b4e.chunk.css.map",
+    "static/js/2.d536e37e.chunk.js.LICENSE": "/funbox-test-2020/static/js/2.d536e37e.chunk.js.LICENSE",
+    "static/media/main.scss": "/funbox-test-2020/static/media/exo2-thin.954b8b56.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.bafdf1ef.js",
+    "static/js/runtime-main.c4fb3814.js",
     "static/js/2.d536e37e.chunk.js",
-    "static/css/main.9b911b23.chunk.css",
+    "static/css/main.26bf8b4e.chunk.css",
     "static/js/main.61dfcd96.chunk.js"
   ]
 }
